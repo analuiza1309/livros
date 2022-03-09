@@ -1,0 +1,62 @@
+
+[
+   { "id":1,
+    "titulo": "Peter Pan",
+   "Genero": "literatura juveniul",
+    "Ano": "1887"
+ },
+
+ {  "id":2,
+   "titulo": "O Elementar De Sherlock Holmes",
+   "Genero": "upolicial e suspense",
+    "Ano": "2018"
+ },
+
+ { "id":3,
+   "titulo": "Espelho De Oscar Wilden",
+   "Genero": "romance",
+    "Ano": "1984"
+ },
+
+ {   "id":4,
+    "titulo": "Virginia Woolf",
+   "Genero": "romance",
+    "Ano": "2021"
+ },
+
+ {  "id":5,
+  "titulo": "Arsène Lupinn",
+ "Genero": "policial e suspense",
+  "Ano": "2021"
+},
+
+{  "id":6,
+  "titulo": "A Revolução Dos Bichos",
+ "Genero": "romance",
+  "Ano": "1984"
+},
+
+{  "id":7,
+   "titulo": "Comédias para Se Ler na Escola",
+ "Genero": "contos e cronicas",
+  "Ano": "2001"
+},
+
+{  "id":8,
+   "titulo": "A Invenção de Hugo Cabret, de Brian Selznick",
+ "Genero": "Aventura",
+  "Ano": "0000"
+},
+
+{
+  "id":9,
+ "titulo": " Kindred – Laços de Sangue",
+ "Genero": "Ficção Cientifica",
+  "Ano": "0000"
+},
+
+{  "id":10,
+  "titulo": "Neuromancer ",
+ "Genero": "Ficção Cientifica",
+  "Ano": "0000"
+}]
